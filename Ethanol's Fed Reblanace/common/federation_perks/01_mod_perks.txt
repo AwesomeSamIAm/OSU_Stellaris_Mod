@@ -1,0 +1,45 @@
+#Perks Example
+#<perk_name>={
+#	Modifier for federation scope
+#	federation_modifier = {}
+#	Modifier for all members (leader included)
+#	members_modifier = {}
+#	Modifier for exclusively leader
+#	leader_modifier = {}
+#	member_triggered_modifier, federation_triggered_modifier and leader_triggered_modifier also exist
+#	envoy_modifier = {}
+#	Modifier applied to federation x number of envoys assigned to it
+#	On activate effect in federation scope
+#	on_activate = {}
+#	On deactivate effect in federation scope
+#}
+
+extra_envoy_2 = {
+	federation_modifier={
+		envoys_add = 1
+	}
+}
+
+
+president_diplo_weight_steal_2 = {
+	leader_modifier = {
+		description = president_diplo_weight_steal_2_effect
+		federation_leader_diplo_weight_from_members_mult = 0.05
+	}
+}
+
+# Spiritualist Federation
+
+spiritualist_federation_passive2 = {
+	#custom_tooltip = spiritualist_federation_passive_tooltip
+	federation_modifier = {
+		country_unity_produces_mult = 0.05
+	}
+}
+
+
+president_spiritualist_10 = {
+	leader_modifier = {
+		description = president_covenant_cb_10_effect
+	}
+}

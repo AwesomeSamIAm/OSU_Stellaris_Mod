@@ -1,0 +1,1 @@
+		SENATE_RECESS_TIMER = 360						# number of days until the next proposed resolution will be put on the floor after the current vote

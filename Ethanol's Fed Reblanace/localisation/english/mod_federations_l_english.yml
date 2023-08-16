@@ -1,0 +1,34 @@
+﻿l_english:
+ IS_YOU:1 "This is you"
+
+ extra_envoy_2:0 "Career Politicans"
+ extra_envoy_2_desc:0 "The better future we're striving to build will only work if all beings are aware of what we mean to achieve. We intend to become a pervasive, persuasive force for peace in the galaxy." 
+ extra_envoy_2_effect:1 "All members gain §G+1§ Envoy."
+
+ president_diplo_weight_steal_2:0 "Common Ground"
+ president_diplo_weight_steal_2_desc:0 "Through the strength of our collective voice, we nominate a single voice to ensure our will on the galactic stage."
+ president_diplo_weight_steal_2_effect:1 "Every member transfers §Y5%§! of their §Y$MOD_DIPLO_WEIGHT_MULT$§! to the president."
+
+ spiritualist_federation_passive:0 "$spiritualist_federation$"
+ spiritualist_federation_passive_desc:0 "$spiritualist_federation_desc$"
+ spiritualist_federation_passive_tooltip:0 "Robotic Empires may not become president of the $spiritualist_federation$ under normal circumstances.\n$mod_country_unity_produces_mult$: §G+5%§!"
+
+ spiritualist_federation_passive2:0 "$spiritualist_federation$"
+ spiritualist_federation_passive2_desc:0 "$spiritualist_federation_desc$"
+ spiritualist_federation_passive2_effect:0 "§G+5%§ Unity!"
+
+ president_spiritualist_10:0 "Holy Crusade"
+ president_spiritualist_10_desc:0 "The primative xenos must be taught of our peaceful ways. By force."
+ president_spiritualist_10_effect:0 "President gets the §YDeclare Holy War§! casus belli"
+
+ president_covenant_cb_10:0 "President gains the §YHoly War§! casus belli"
+ president_covenant_cb_10_desc:0 "The primative xenos must be taught of our peaceful ways. By force."
+ president_covenant_cb_10_effect:0 "The president gets the Holy War casus belli"
+ 
+ war_goal_wg_covenant:0 "Holy War"
+ war_goal_wg_covenant_desc:0 "Rid the galaxy of some of the backwater heathens that dare to sully our galactic doorstep"
+ war_goal_wg_covenant_effect:0 "Declare a §YHoly War§!! Gain a 50% chance to steal a relic while invading the enemy homeworld"
+
+ casus_belli_cb_covenant:0 "Reclaim Holy Symbols"
+ casus_belli_cb_covenant_desc:0 "Holier War"
+ casus_belli_cb_covenant_effect:0 "Holist War"
